@@ -1,7 +1,7 @@
-import Functions from "./POM/Functions";
-import Elements from "./POM/Elements";
-import Verifications from "./POM/Verifications";
-import CheckBox from "./POM/CheckBox";
+import Functions from "../POM/Functions";
+import Elements from "../POM/Elements";
+import Verifications from "../POM/Verifications";
+import CheckBox from "../POM/CheckBox";
 
 const check = new CheckBox()
 const basePage = new Functions()

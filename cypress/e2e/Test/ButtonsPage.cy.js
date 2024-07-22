@@ -1,7 +1,7 @@
-import Functions from "./POM/Functions";
-import Elements from "./POM/Elements";
-import Verifications from "./POM/Verifications";
-import Buttons from "./POM/Buttons";
+import Functions from "../POM/Functions";
+import Elements from "../POM/Elements";
+import Verifications from "../POM/Verifications";
+import Buttons from "../POM/Buttons";
 
 const buttonPage = new Buttons()
 const basePage = new Functions()

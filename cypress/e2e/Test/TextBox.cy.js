@@ -1,7 +1,7 @@
-import Functions from "./POM/Functions";
-import Elements from "./POM/Elements";
-import InputFields from "./POM/InputFields";
-import Verifications from "./POM/Verifications";
+import Functions from "../POM/Functions";
+import Elements from "../POM/Elements";
+import InputFields from "../POM/InputFields";
+import Verifications from "../POM/Verifications";
 
 const verify = new Verifications()
 const input = new InputFields()

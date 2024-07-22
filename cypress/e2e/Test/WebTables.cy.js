@@ -1,7 +1,7 @@
-import Functions from "./POM/Functions";
-import Elements from "./POM/Elements";
-import Verifications from "./POM/Verifications";
-import WebTable from "./POM/WebTable";
+import Functions from "../POM/Functions";
+import Elements from "../POM/Elements";
+import Verifications from "../POM/Verifications";
+import WebTable from "../POM/WebTable";
 
 const table = new WebTable()
 const basePage = new Functions()

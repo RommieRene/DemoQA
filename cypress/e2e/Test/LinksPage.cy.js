@@ -1,8 +1,8 @@
-import Functions from "./POM/Functions";
-import Elements from "./POM/Elements";
-import Verifications from "./POM/Verifications";
-import Buttons from "./POM/Buttons";
-import Status from "./POM/Status";
+import Functions from "../POM/Functions";
+import Elements from "../POM/Elements";
+import Verifications from "../POM/Verifications";
+import Buttons from "../POM/Buttons";
+import Status from "../POM/Status";
 
 const checkStatus = new Status()
 const button = new Buttons()

@@ -1,6 +1,6 @@
-import Functions from "./POM/Functions";
-import Elements from "./POM/Elements";
-import Verifications from "./POM/Verifications";
+import Functions from "../POM/Functions";
+import Elements from "../POM/Elements";
+import Verifications from "../POM/Verifications";
 
 const basePage = new Functions()
 const elementItem = new Elements()
