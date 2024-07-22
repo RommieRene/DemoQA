@@ -63,13 +63,14 @@ The project structure is as follows:
       Status.js
       Verifications.JS
       WebTable.js
-    ButtonsPage.cy.js
-    CheckBox.cy.js
-    EditTable.cy.js
-    LinksPage.cy.js
-    RadioButton.cy.js
-    TextBox.cy.js
-    WebTables.cy.js
+    /Test
+      ButtonsPage.cy.js
+      CheckBox.cy.js
+      EditTable.cy.js
+      LinksPage.cy.js
+      RadioButton.cy.js
+      TextBox.cy.js
+      WebTables.cy.js
   /fixtures
   /support
     commands.js
