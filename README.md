@@ -22,7 +22,7 @@ This will open the Cypress Test Runner, where you can select and run any of the 
 ### Running Tests via Terminal (Headless)
 To run a specific test file in headless mode (without opening a browser UI), use the following command:
   ```bash
-  npx cypress run --spec "cypress/e2e/{class_name}.cy.js"
+  npx cypress run --spec "cypress/e2e/test/{class_name}.cy.js"
   ```
 Replace {class_name} with the name of the test file you want to run. Here are the available test files:
 - ButtonsPage.cy.js
@@ -35,7 +35,7 @@ Replace {class_name} with the name of the test file you want to run. Here are th
   
 For example, to run the ButtonsPage.cy.js test file, use:
   ```bash
-  npx cypress run --spec "cypress/e2e/ButtonsPage.cy.js"
+  npx cypress run --spec "cypress/e2e/test/ButtonsPage.cy.js"
   ```
 
 ## Test Files
